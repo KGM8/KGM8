@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there, I'm Kgaugelo (KG for short)👋<br><br>🎓 Computer Science student passionate about technology, problem-solving, and continuous learning.<br><br>💻 I'm interested in:<br><br>Software Development<br>Object-Oriented Programming<br>Data Structures & Algorithms<br>Database Systems<br>Artificial Intelligence & Machine Learning<br>Web and Mobile Development<br><br>🌱 Currently improving my skills in Java, SQL, Python, and modern software development practices while working on academic and personal projects.<br><br>🚀 I enjoy building projects that challenge me to think creatively and strengthen my programming skills.<br><br>📚 My GitHub is a collection of coursework, personal projects, and experiments as I continue my journey in computer science.
 
 

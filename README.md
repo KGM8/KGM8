@@ -1,9 +1,40 @@
-# About Me:
-Hi there, I'm Kgaugelo (KG for short)👋<br><br>Final year Computer Science student passionate about technology, problem-solving, and continuous learning.<br><br>I'm interested in:<br><br>Software Engineering<br>Full Stack Development<br>Data Structures & Algorithms<br>Database Systems<br>Artificial Intelligence & Machine Learning<br>Web and Mobile Development<br><br> Currently improving my skills in C#/.NET, concurrent C++, Java, SQL, Python, and modern software development practices while working on academic and personal projects.<br><br> I enjoy building projects that challenge me to think creatively and strengthen my programming skills.<br><br> My GitHub is a collection of coursework, personal projects, and experiments as I continue my journey in computer science.
+# Hi there, I'm Kgaugelo Mphahlele (KG) 👋
+
+I am a final-year BSc Computer Science student at the University of KwaZulu-Natal with strong competencies in full-stack architecture, relational database management systems, and concurrent software design. 
+
+My engineering approach emphasizes solid architectural patterns, clean and testable code, and a commitment to continuous learning across the entire software development lifecycle (SDLC).
+
+---
+
+### 🎯 Areas of Expertise & Core Focus
+*   **Backend & Systems Engineering:** Architecting multi-tier business logic engines, RESTful web services, and high-concurrency synchronisation architectures.
+*   **Database Design & Optimization:** Modeling highly structured relational databases, optimizing complex multi-table joins, and ensuring strict data integrity constraints.
+*   **Mentorship & Technical Communication:** Actively serving as a University Tutor for Data Structures, Algorithms, and Object-Oriented Programming (OOP) to help second-year students master core computing mechanics.
+
+---
+
+### 🛠️ Featured Technical Projects
+
+#### 📚 Full Stack Library Management System | Java & PostgreSQL
+*   Designed a fully normalized relational schema using **PostgreSQL** to optimize transactional checkouts and eliminate data redundancy.
+*   Developed robust backend business logic and functional data validation layers utilizing object-oriented principles in **Java**.
+*   Led an Agile project squad of five through full lifecycle planning, continuous integration, and validation testing (Achieved 89%).
+
+#### 🚗 Multi-Tier Car Insurance System | C# & .NET
+*   Architected full backend business logic pipelines and validation rules engines utilizing the **Microsoft technology stack**.
+*   Built out database configuration schemas and validation constraints inside an active, sprint-driven **SQL Server** environment (Achieved 80%).
+
+#### 📦 Concurrent Inventory Management System | C++
+*   Engineered a thread-safe warehouse processing backend to safely execute data simulation handling without memory faults.
+*   Implemented strict low-level mutex synchronization structures to isolate, trace, and resolve concurrent race conditions (Achieved 91%).
+
+---
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kgaugelo-mphahlele-aa335a372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mphahlele.kx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mphahlele.kx@gmail.com)
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)

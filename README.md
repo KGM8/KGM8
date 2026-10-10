@@ -33,7 +33,7 @@ My engineering approach emphasizes solid architectural patterns, clean and testa
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mphahlele.kx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kgaugelo-mphahlele-aa335a372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mphahlele.kx@gmail.com)
 
 
 # 💻 Tech Stack:

@@ -1,34 +1,44 @@
-# Hi there, I'm Kgaugelo Mphahlele (KG) 👋
+# Hi, I'm Kgaugelo Mphahlele (KG) 👋
 
-I am a final-year BSc Computer Science student at the University of KwaZulu-Natal with strong competencies in full-stack architecture, relational database management systems, and concurrent software design. 
+Final-year BSc Computer Science student at the University of KwaZulu-Natal, graduating 2026.
+I build backend systems, databases, and AI tooling — most recently an agent-based pipeline that reduces LLM hallucinations.
 
-My engineering approach emphasizes solid architectural patterns, clean and testable code, and a commitment to continuous learning across the entire software development lifecycle (SDLC).
-
----
-
-### 🎯 Areas of Expertise & Core Focus
-*   **Backend & Systems Engineering:** Architecting multi-tier business logic engines, RESTful web services, and high-concurrency synchronisation architectures.
-*   **Database Design & Optimization:** Modeling highly structured relational databases, optimizing complex multi-table joins, and ensuring strict data integrity constraints.
-*   **Mentorship & Technical Communication:** Actively serving as a University Tutor for Data Structures, Algorithms, and Object-Oriented Programming (OOP) to help second-year students master core computing mechanics.
+🔭 **Looking for:** graduate / junior software developer roles (2027)
+📍 Pretoria, South Africa · 💼 [LinkedIn](https://www.linkedin.com/in/kgaugelo-mphahlele-aa335a372) · 📧 mphahlele.kx@gmail.com
 
 ---
 
-### 🛠️ Featured Technical Projects
+### 🚀 Featured Projects
 
-#### 📚 Full Stack Library Management System | Java & PostgreSQL
-*   Designed a fully normalized relational schema using **PostgreSQL** to optimize transactional checkouts and eliminate data redundancy.
-*   Developed robust backend business logic and functional data validation layers utilizing object-oriented principles in **Java**.
-*   Led an Agile project squad of five through full lifecycle planning, continuous integration, and validation testing (Achieved 89%).
+**🤖 [Confident-Agent](https://github.com/KGM8/Confident-Agent)** — *Python, Llama, LM Studio*
+Agent-based validation layer that checks LLM answers to South African history questions and flags likely hallucinations.
+Evaluated in a controlled experiment against a raw Llama baseline on a benchmark built from a scraped SAHO dataset. **(85%)**
 
-#### 🚗 Multi-Tier Car Insurance System | C# & .NET
-*   Architected full backend business logic pipelines and validation rules engines utilizing the **Microsoft technology stack**.
-*   Built out database configuration schemas and validation constraints inside an active, sprint-driven **SQL Server** environment (Achieved 80%).
+**🔎 [Wikipedia QA System](https://github.com/KGM8/Wikipedia-QA-system-)** — *Python, NLP*
+<!-- TODO: one line on what it does + one result/metric -->
 
-#### 📦 Concurrent Inventory Management System | C++
-*   Engineered a thread-safe warehouse processing backend to safely execute data simulation handling without memory faults.
-*   Implemented strict low-level mutex synchronization structures to isolate, trace, and resolve concurrent race conditions (Achieved 91%).
+**🎮 [Cursed Corridors 3D](https://github.com/YAMO-M/Cursed-Corridors-3D)** — *Unity, C#, HLSL*
+Team of 4 · third-person survival maze game with a pursuing zombie NPC. I owned the world and game systems: a modular maze kit modelled from scratch, the level layout, win/loss logic, menus, and integrating everyone's work into the final scene.
+
+**📦 [Concurrent Inventory Management System](https://github.com/KGM8/Inventory-Management-System)** — *C++*
+Thread-safe warehouse order processing using mutexes to prevent race conditions. Led a team of 7. **(91%)**
+
+**📚 [Library Management System](https://github.com/KGM8/Library-Management-System)** — *Java, MySQL*
+Full-stack system: I designed the normalised database schema and built the Java backend. Led a team of 5. **(89%)**
 
 ---
+
+### 🛠️ Tech Stack
+**Languages:** Java · C++ · C# · Python · JavaScript/TypeScript · SQL
+**Frameworks & Tools:** React · Node.js · .NET · Unity · JavaFX · Tailwind CSS · Git · Linux
+**Databases:** MySQL · PostgreSQL · SQL Server
+**Currently learning:** Spring Boot / backend APIs (freeCodeCamp Back-End Development & APIs)
+
+---
+
+### 💼 Experience
+- **Frontend Developer @ IVPortraits** (2026 – present): React components and responsive UIs with Tailwind CSS in an Agile/Scrum team
+- **Tutor @ UKZN** (2026 – present): second-year OOP and Data Structures & Algorithms
 
 
 

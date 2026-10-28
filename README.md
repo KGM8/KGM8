@@ -14,8 +14,8 @@ I build backend systems, databases, and AI tooling — most recently an agent-ba
 Agent-based validation layer that checks LLM answers to South African history questions and flags likely hallucinations.
 Evaluated in a controlled experiment against a raw Llama baseline on a benchmark built from a scraped SAHO dataset. **(85%)**
 
-**🔎 [Wikipedia QA System](https://github.com/KGM8/Wikipedia-QA-system-)** — *Python, NLP*
-<!-- TODO: one line on what it does + one result/metric -->
+**🔎 [Wikipedia QA System](https://github.com/KGM8/Wikipedia-QA-system-)** — *Python, PyTorch, Hugging Face Transformers*
+Fine-tuned DistilBERT, BERT and RoBERTa on SQuAD for extractive question answering, then compared them on Exact Match, F1 and confidence. Found that the larger models were more accurate while DistilBERT ran much faster, a clear speed vs. accuracy trade-off.
 
 **🎮 [Cursed Corridors 3D](https://github.com/YAMO-M/Cursed-Corridors-3D)** — *Unity, C#, HLSL*
 Team of 4 · third-person survival maze game with a pursuing zombie NPC. I owned the world and game systems: a modular maze kit modelled from scratch, the level layout, win/loss logic, menus, and integrating everyone's work into the final scene.

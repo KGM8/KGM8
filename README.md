@@ -4,7 +4,7 @@ Final-year BSc Computer Science student at the University of KwaZulu-Natal, grad
 I build backend systems, databases, and AI tooling — most recently an agent-based pipeline that reduces LLM hallucinations.
 
 🔭 **Looking for:** graduate / junior software developer roles (2027)
-📍 Pretoria, South Africa · 💼 [LinkedIn](https://www.linkedin.com/in/kgaugelo-mphahlele-aa335a372) · 📧 mphahlele.kx@gmail.com
+📍 Pretoria, South Africa 
 
 ---
 
